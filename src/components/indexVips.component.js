@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import Logo from "../assets/media/general/autologo.png";
 import Cookie from "js-cookie";
 import axios from "axios";
 import { Redirect } from "react-router-dom";

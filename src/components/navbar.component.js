@@ -1,9 +1,10 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import Logo from "../assets/media/general/autologo.png";
+import Logo from "../media/general/autologo.png";
 import Cookie from "js-cookie";
 import axios from "axios";
 import { Redirect } from "react-router-dom";
+import loadScript from "../scripts.js";
 
 export default class Navigation extends Component {
   constructor(props) {
@@ -15,6 +16,8 @@ export default class Navigation extends Component {
       redirect: null,
     };
   }
+
+  componentDidMount() {}
 
   render() {
     return (
