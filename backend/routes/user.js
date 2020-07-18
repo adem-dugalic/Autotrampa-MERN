@@ -2,8 +2,8 @@ const router = require("express").Router();
 
 /*Models*/
 const User = require("../models/User.model");
-const UserSession = require("../models/UserSession.model");
-const UserCars = require("../models/UserCars.model");
+//const UserSession = require("../models/UserSession.model");
+//const UserCars = require("../models/UserCars.model");
 
 const jwt = require("jsonwebtoken");
 const auth = require("../middleware/auth");
