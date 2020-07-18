@@ -11,3 +11,7 @@ The website will be made using the MERN stack.
 
 - Adem Dugalić
 - Tarik muharem
+  <<<<<<< HEAD
+  =======
+
+> > > > > > > f6ec042432d137a548ca79681910018a45585982
