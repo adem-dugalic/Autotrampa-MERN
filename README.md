@@ -9,7 +9,7 @@ The website will be made using the MERN stack.
 
 ## Members
 
-- Adem DUgalić
+- Adem Dugalić
 - Tarik muharem
  
  
